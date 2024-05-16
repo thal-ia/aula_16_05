@@ -1,0 +1,25 @@
+.div1{
+    background-color: cadetblue;
+    width: 99%;
+    height: 100px;
+}
+
+.div2{
+    background-color: #03bdc4;
+    width: 99%;
+    height: 100px;
+}
+
+.fotoLivro{
+    width: 400px;
+    height: 400px;
+    border: 1px solid;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn1{
+    background-color: black;
+    color: beige;
+    border-radius: 5px;
+}
